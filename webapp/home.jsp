@@ -9,7 +9,7 @@
 </head>
 <body>
 
-hello jsp
+hello spring mvc
 
 </body>
 </html>
