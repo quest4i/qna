@@ -22,6 +22,5 @@ public class MessageRenderer {
 		ApplicationContext ac = new ClassPathXmlApplicationContext("di.xml");
 		MessageRenderer renderer = (MessageRenderer)ac.getBean("messageRenderer");
 		renderer.render();
-		
 	}
 }
